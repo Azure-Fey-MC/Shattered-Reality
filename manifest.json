@@ -1,1 +1,41 @@
-
+{
+  "unsup-manifest":"root-1",
+  "name":"Shattered Reality",
+  "versions":{
+    "current":{
+      "name":"3.4.3",
+      "code":1
+    },
+    "history":[]
+  },
+  "flavor_groups":[
+    {
+      "id":"sodium",
+      "name":"Sodium Type",
+      "description":"How much do you want Sodium to change rendering?",
+      "env":["client"],
+      "choices":[
+        {
+          "id":"none",
+          "name":"Vanilla",
+          "description":"Do not install Sodium and attempt vanilla rendering."
+        },
+        {
+          "id":"sodium_1",
+          "name":"Sodium",
+          "description":"Installs Sodium and Indium, greatly increasing performance."
+        },
+        {
+          "id":"sodium_extras",
+          "name":"Sodium Extras",
+          "description":"Installs Sodium, Sodium Extras and Indium, greatly increasing performance while providing more options."
+        },
+        {
+          "id":"iris",
+          "name":"Shaders",
+          "description":"Installs Sodium, Sodim Extras, Indium and Iris, allowing for use of shader packs."
+        }
+      ]
+    }
+  ]
+}
