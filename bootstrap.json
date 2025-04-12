@@ -1,0 +1,25 @@
+{
+    "unsup_manifest":"bootstrap-1",
+    "version":{
+        "name":"3.4.3",
+        "code":1
+    },
+    "hash_function":"SHA-2 256",
+    "files":[
+        {
+            "path":"config/carryon-client.json",
+            "hash":"a0bdf8598bad61fff730d31cb088c5a3281ccfcd8d767a61ec879ce1fd818390",
+            "size":675
+        },
+        {
+            "path":"config/creeper-healing.toml",
+            "hash":"ae657f6c4361c61c1cbff6ece81b8b4f2b8c4453f89d4cbaf43dc204b4f4abe7",
+            "size":4827
+        },
+        {
+            "path":"config/carryon-client.json",
+            "hash":"a0bdf8598bad61fff730d31cb088c5a3281ccfcd8d767a61ec879ce1fd818390",
+            "size":675
+        }
+    ]
+}
