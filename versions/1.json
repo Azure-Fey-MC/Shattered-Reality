@@ -16,11 +16,11 @@
             "to_size":4827
         },
         {
-            "path":"config/carryon-client.json",
+            "path":"config/telekinesis.json",
             "from_size":0,
             "from_hash":null,
-            "to_hash":"a0bdf8598bad61fff730d31cb088c5a3281ccfcd8d767a61ec879ce1fd818390",
-            "to_size":675
+            "to_hash":"f780fe080667cf91b16ea23ded775c5fc5924f53a4c66c0ab3366c4f2dfa04b8",
+            "to_size":802
         }
     ],
     "unsup_manifest":"update-1"

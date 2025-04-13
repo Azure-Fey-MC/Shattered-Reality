@@ -17,9 +17,9 @@
             "size":4827
         },
         {
-            "path":"config/carryon-client.json",
-            "hash":"a0bdf8598bad61fff730d31cb088c5a3281ccfcd8d767a61ec879ce1fd818390",
-            "size":675
+            "path":"config/telekinesis.json",
+            "hash":"f780fe080667cf91b16ea23ded775c5fc5924f53a4c66c0ab3366c4f2dfa04b8",
+            "size":802
         }
     ]
 }
