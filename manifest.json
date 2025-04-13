@@ -28,12 +28,12 @@
         {
           "id":"sodium_extras",
           "name":"Sodium Extras",
-          "description":"Installs Sodium, Sodium Extras and Indium, greatly increasing performance while providing more options."
+          "description":"Installs Sodium, Sodium Extras and Indium, greatly increasing performance while providing more customization."
         },
         {
           "id":"iris",
-          "name":"Shaders",
-          "description":"Installs Sodium, Sodim Extras, Indium and Iris, allowing for use of shader packs."
+          "name":"Iris (Shaders)",
+          "description":"Installs Sodium, Sodim Extras, Indium and Iris, increasing performance and providing support for shader packs."
         }
       ]
     }
