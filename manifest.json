@@ -3,7 +3,7 @@
   "name":"Shattered Reality",
   "versions":{
     "current":{
-      "name":"3.4.3",
+      "name":"3.5.0",
       "code":1
     },
     "history":[]
@@ -33,7 +33,7 @@
         {
           "id":"iris",
           "name":"Iris (Shaders)",
-          "description":"Installs Sodium, Sodim Extras, Indium and Iris, increasing performance and providing support for shader packs."
+          "description":"Installs Sodium, Sodium Extras, Indium and Iris, increasing performance and providing support for shader packs."
         }
       ]
     }
