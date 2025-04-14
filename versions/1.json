@@ -290,11 +290,11 @@
             "envs":["client","server"]
         },
         {
-            "path":"mods/geckolib-fabric-1.20.1-4.2.3.jar",
+            "path":"mods/geckolib-fabric-1.20.1-4.7.1.2.jar",
             "from_size":0,
             "from_hash":null,
-            "to_hash":"f703602012c1feb06a8beb4df0e423938622bb6771841f41a8afe6519cb21beb",
-            "to_size":1733106,
+            "to_hash":"ae5ff490a1f008831b514f0726675d658f2e91b8fddb529c571329b4b90495df",
+            "to_size":1042863,
             "envs":["client","server"]
         },
         {
