@@ -10,7 +10,7 @@ Previously known as **Mages & Heroes**.
 The modpack used for the Shattered Reality server. This modpack features magic, superpowers and a little bit of technology. Join your friends and work together or compete to help you survive an extraordinary world.
 
 Features
-- Backpacks (Dank Storage
+- Backpacks (Dank Storage)
 - Steampunk style technology (Create)
 - Magic (Hex Casting, Spectrum)
 - Superpowers (NBC Heroes, Echoes of Power)
