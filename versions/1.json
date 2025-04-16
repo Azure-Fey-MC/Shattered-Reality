@@ -881,7 +881,7 @@
             "from_hash":null,
             "to_hash":"9191d74a4be2b6e493792a5b67e55acd91b1c614e5c835c5cd874f0e29358d95",
             "to_size":99594,
-            "envs":["client"]
+            "envs":["client","server"]
         },
         {
             "path":"mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
