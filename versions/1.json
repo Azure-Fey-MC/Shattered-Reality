@@ -1532,6 +1532,103 @@
             "to_hash":"c4d7a7fcafc13f87b21c01266761dfa6165b792862713775dfeb4c3e88b688f2",
             "to_size":1154846,
             "envs":["client","server"]
+        },
+        {
+            "path":"servers.dat",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"f2d4d63848d91442d19d3a0211aa90d3050bd086bc22345c0002f733ba30e7ff",
+            "to_size":5080,
+            "envs":["client"]
+        },
+        {
+            "path":"shaderpacks/BSL_v8.2.09.zip",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"b9f9e70c83f04830007ec06e6d7c3e0fafe90c6af53355e4248ab0a59ca1cf48",
+            "to_size":954784,
+            "envs":["client"],
+            "flavors":["iris"]
+        },
+        {
+            "path":"resourcepacks/Legacy_0.5_Create_Darkmode_v0.0.1.zip",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"50cb504e4a8934b55e21a06585a6682cd0898607690f9ac3797e12b7e08bbcf1",
+            "to_size":152524,
+            "envs":["client"]
+        },
+        {
+            "path":"resourcepacks/Unity-1.20.1-Dark-1.1.0.zip",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"d8034f7db6ba8e500aff285ae1454563dfdf62b79aa11aa4eecf7686897b5fe4",
+            "to_size":8663604,
+            "envs":["client"]
+        },
+        {
+            "path":"resourcepacks/EBE_1.20.x_v1.1.zip",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"cc1dc1cf2252b07fc5157d6982e2d1a5abe89ba5eab36688f75b778056dcd722",
+            "to_size":62318,
+            "envs":["client"]
+        },
+        {
+            "path":"resourcepacks/§aReimagined§0_§8[v1.46-BETA.2]§0.zip",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"af65d30c1087b2c14991d65af1f058c2e0fb77eb219c7acefb0f87465ee38e4c",
+            "to_size":65755216,
+            "envs":["client"]
+        },
+        {
+            "path":"resourcepacks/barebones+bossbar.zip",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"2f5aa8686f6cbe538a9a819a7842e41f765835c6233afb0365b9df745db7ae7a",
+            "to_size":22707,
+            "envs":["client"]
+        },
+        {
+            "path":"resourcepacks/Default-Dark-Mode-1.20.2+-2024.6.0.zip",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"a7ea01c7cdab66656bce670092af0716d01a53715e1adee4c57828aa045e8c5a",
+            "to_size":750624,
+            "envs":["client"]
+        },
+        {
+            "path":"resourcepacks/Bare Bones 1.20.zip",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"e628b0d284bcee3fc929ae5f3078e44af48de38a9691dc6b380b5a8fccb2a9f4",
+            "to_size":8797275,
+            "envs":["client"]
+        },
+        {
+            "path":"resourcepacks/Unity-1.19.4-Base-2.5.0.zip",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"722b441a57adf6655f5c9caf23426143a60a9bcf6b7fc87c9503651f77fdfd37",
+            "to_size":4812708,
+            "envs":["client"]
+        },
+        {
+            "path":"resourcepacks/Unique Dark 1.21 (free).zip",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"6b96ef47c3f33431a738e808557d85f297feaaaa1079f28e5174bafe9751ecb4",
+            "to_size":7487783,
+            "envs":["client"]
+        },
+        {
+            "path":"resourcepacks/[1.4.1] Enhanced Boss Bars.zip",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"9c68f8ee2a2cfbf2334d2f8a8d49686becb30285413be7d63d88826598a41aed",
+            "to_size":184935,
+            "envs":["client"]
         }
     ],
     "unsup_manifest":"update-1"
