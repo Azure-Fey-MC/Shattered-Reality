@@ -1,7 +1,7 @@
 name: Update Pack
 on:
   schedule:
-    - cron:  '55 */6 * * *'
+    - cron:  '45 */6 * * *'
   workflow_dispatch:
 jobs:
   pull-request:
