@@ -1,0 +1,26 @@
+name: Update Pack
+on:
+  schedule:
+    - cron:  '55 */6 * * *'
+  workflow_dispatch:
+jobs:
+  pull-request:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Open Checkout
+        uses: actions/checkout@v1
+      - name: Open PR
+        id: open_pr
+        uses: rematocorp/open-pull-request-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          from-branch: 1.20.1-dev
+          to-branch: 1.20.1-quilt
+          repository-owner: Azure-Fey-MC
+          repository: Shattered-Reality
+          
+      - name: Echo mergeable PR number
+        run: echo ${{ steps.open_pr.outputs.pull_number }}
+      - name: Merge PR
+        uses: maxkomarychev/merge-pal-action@master
+      
