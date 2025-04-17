@@ -57,5 +57,6 @@
             "to_size":1551904,
             "envs":["server"]
         }
-    ]
+    ],
+    "unsup_manifest":"update-1"
 }
