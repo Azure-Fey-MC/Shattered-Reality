@@ -9,13 +9,11 @@ jobs:
     steps:
       - name: Open Checkout
         uses: actions/checkout@v1
-      - name: Create pull request
-        uses: thomaseizinger/create-pull-request@master
+      - name: Creates Pull Request
+        uses: emiliopedrollo/create-pull-request@v2.0.0
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           head: 1.20.1-dev
           base: 1.20.1-quilt
-          title: "Pack Update"
       - name: Merge PR
         uses: maxkomarychev/merge-pal-action@master
       
