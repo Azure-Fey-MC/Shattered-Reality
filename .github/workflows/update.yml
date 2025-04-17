@@ -9,11 +9,18 @@ jobs:
     steps:
       - name: Open Checkout
         uses: actions/checkout@v1
-      - name: Creates Pull Request
-        uses: emiliopedrollo/create-pull-request@v2.0.0
+      - name: Open PR
+        id: open_pr
+        uses: rematocorp/open-pull-request-action@v1
         with:
-          head: 1.20.1-dev
-          base: 1.20.1-quilt
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          from-branch: 1.20.1-dev
+          to-branch: 1.20.1-quilt
+          repository-owner: Azure-Fey-MC
+          repository: Shattered-Reality
+          
+      - name: Echo mergeable PR number
+        run: echo ${{ steps.open_pr.outputs.pull_number }}
       - name: Merge PR
         uses: maxkomarychev/merge-pal-action@master
       
