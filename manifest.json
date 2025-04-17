@@ -3,10 +3,15 @@
   "name":"Shattered Reality",
   "versions":{
     "current":{
-      "name":"3.5.0",
-      "code":1
+      "name":"3.5.1",
+      "code":2
     },
-    "history":[]
+    "history":[
+      {
+        "name":"3.5.0",
+        "code":1
+      }
+    ]
   },
   "flavor_groups":[
     {

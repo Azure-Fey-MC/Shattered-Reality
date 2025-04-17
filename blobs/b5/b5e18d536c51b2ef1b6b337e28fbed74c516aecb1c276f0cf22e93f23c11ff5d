@@ -13,7 +13,7 @@
       "id":"sodium",
       "name":"Sodium Type",
       "description":"How much do you want Sodium to change rendering?",
-      "env":["client"],
+      "envs":["client"],
       "choices":[
         {
           "id":"none",
