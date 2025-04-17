@@ -10,7 +10,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Create Pull Request
-        run: gh pr create -B 1.20.1-quilt -H 1.20.1-dev --title 'Update Pack' --body 'Created by Github action'
+        run: gh pr create -B 1.20-quilt -H 1.20-dev --title 'Update Pack' --body 'Created by Github action'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Merge Pull Request
