@@ -9,16 +9,13 @@ jobs:
     steps:
       - name: Open Checkout
         uses: actions/checkout@v1
-      - name: Open PR
-        id: open_pr
-        uses: rematocorp/open-pull-request-action@v1
+      - name: Create pull request
+        uses: thomaseizinger/create-pull-request@master
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          from-branch: 1.20-dev
-          to-branch: 1.20-quilt
-          repository-owner: Azure-Fey-MC
-          repository: Shattered-Reality
-          
-      - name: Echo mergeable PR number
-        run: echo ${{ steps.open_pr.outputs.pull_number }}
-      - uses: maxkomarychev/merge-pal-action@master
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          head: 1.20.1-dev
+          base: 1.20.1-quilt
+          title: "Pack Update"
+      - name: Merge PR
+        uses: maxkomarychev/merge-pal-action@master
+      
