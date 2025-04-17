@@ -1,0 +1,19 @@
+name: Update Pack
+on:
+  schedule:
+    - cron:  '55 */6 * * *'
+  workflow_dispatch:
+jobs:
+  pull-request:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Up Merge
+        uses: bambamboole/gha-upmerge@master
+        with:
+          from_branch: '1.20-dev'
+          to_branch: '1.20-quilt'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
