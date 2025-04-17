@@ -7,14 +7,18 @@ jobs:
   pull-request:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Mark Safe
-        run: git config --global --add safe.directory /github/workspace
-      - name: Up Merge
-        uses: bambamboole/gha-upmerge@main
+      - name: Open Checkout
+        uses: actions/checkout@v1
+      - name: Open PR
+        id: open_pr
+        uses: rematocorp/open-pull-request-action@v1
         with:
-          from_branch: '1.20-dev'
-          to_branch: '1.20-quilt'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          from-branch: 1.20-dev
+          to-branch: 1.20-quilt
+          repository-owner: Azure-Fey-MC
+          repository: Shattered-Reality
+          
+      - name: Echo mergeable PR number
+        run: echo ${{ steps.open_pr.outputs.pull_number }}
+      - uses: maxkomarychev/merge-pal-action@master
