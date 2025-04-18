@@ -34,6 +34,14 @@
             "envs":["client","server"]
         },
         {
+            "path":"mods/Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"38f35fa36c1688f129f7c2b4ecc741abd0fed12ad996f23b58e15e8162985ce5",
+            "to_size":9892101,
+            "envs":["client","server"]
+        },
+        {
             "path":"mods/jei-1.20.1-fabric-15.20.0.106.jar",
             "from_size":0,
             "from_hash":null,
