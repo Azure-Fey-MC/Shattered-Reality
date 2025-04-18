@@ -3,17 +3,13 @@
   "name":"Shattered Reality",
   "versions":{
     "current":{
-      "name":"3.5.2",
-      "code":3
+      "name":"3.5.1",
+      "code":2
     },
     "history":[
       {
         "name":"3.5.0",
         "code":1
-      },
-      {
-        "name":"3.5.1",
-        "code":2
       }
     ]
   },
