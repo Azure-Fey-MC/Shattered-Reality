@@ -1,0 +1,14 @@
+{
+    "hash_function":"SHA-2 256",
+    "changes":[
+        {
+            "path":"mods/player-roles.jar",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"e9d7575698384d067acf48320e2ed1d02b88693c6466cbbb6488f4c885c75543",
+            "to_size":238022,
+            "envs":["server"]
+        }
+    ],
+    "unsup_manifest":"update-1"
+}
