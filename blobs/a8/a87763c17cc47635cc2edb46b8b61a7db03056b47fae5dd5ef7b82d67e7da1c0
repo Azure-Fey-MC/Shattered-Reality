@@ -1,0 +1,38 @@
+{
+    "hash_function":"SHA-2 256",
+    "changes":[
+        {
+            "path":"mods/hexchanting.jar",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"6ae5744dcc9bfb635f4791a685c17b080abe4a983efe174db5c1d5532b13d41f",
+            "to_size":126145,
+            "envs":["client","server"]
+        },
+        {
+            "path":"mods/styledplayerlist.jar",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"df846a9bac3033a5eb908ae9eceac4e5935b899f94009dee92879ab0cf729f75",
+            "to_size":251671,
+            "envs":["server"]
+        },
+        {
+            "path":"mods/shattered_reality.jar",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"08a3d0353806f11ab2f9d1a692a3cd09f3fdb73b1bfeaaa0f0f2686ba885ecef",
+            "to_size":5147264,
+            "envs":["client","server"]
+        },
+        {
+            "path":"mods/shattered_reality-2.3.0.jar",
+            "from_size":5149334,
+            "from_hash":"e67c61e53350c53a2edac18cd2275284d1c8642cadef3e754dea0b83e2f84d0a",
+            "to_hash":null,
+            "to_size":0,
+            "envs":["client","server"]
+        }
+    ],
+    "unsup_manifest":"update-1"
+}
