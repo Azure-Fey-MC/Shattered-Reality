@@ -1,0 +1,17 @@
+name: Auto Assign Issues
+on:
+  issues:
+    types: [opened]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - name: 'Auto-assign issue'
+      uses: pozil/auto-assign-issue@v1
+      with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          assignees: Teal-Wolf-25-Alt
+          numOfAssignee: 1
