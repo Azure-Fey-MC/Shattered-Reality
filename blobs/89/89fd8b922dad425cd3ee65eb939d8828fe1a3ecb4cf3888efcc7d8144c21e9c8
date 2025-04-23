@@ -1,0 +1,23 @@
+{
+    "hash_function":"SHA-2 256",
+    "changes":[
+
+        {
+            "path":"mods/hexical.jar",
+            "from_size":0,
+            "from_hash":null,
+            "to_hash":"3ad41c861d865defcc09330bbb13f3af7e7ef366c89250e2e1caec15c968d919",
+            "to_size":1425982,
+            "envs":["client","server"]
+        },
+        {
+            "path":"mods/hexical-1.5.0.jar",
+            "from_size":1154846,
+            "from_hash":"c4d7a7fcafc13f87b21c01266761dfa6165b792862713775dfeb4c3e88b688f2",
+            "to_hash":null,
+            "to_size":0,
+            "envs":["client","server"]
+        }
+    ],
+    "unsup_manifest":"update-1"
+}

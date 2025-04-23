@@ -1,0 +1,14 @@
+{
+    "hash_function":"SHA-2 256",
+    "changes":[
+        {
+            "path":"mods/shattered_reality.jar",
+            "from_size":5147264,
+            "from_hash":"08a3d0353806f11ab2f9d1a692a3cd09f3fdb73b1bfeaaa0f0f2686ba885ecef",
+            "to_hash":"890bf5d4f01732f2a3c54071ea3e72c3b369179541d93caf35828b417eb443d0",
+            "to_size":5152600,
+            "envs":["client","server"]
+        }
+    ],
+    "unsup_manifest":"update-1"
+}
