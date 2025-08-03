@@ -2,7 +2,7 @@
 This repository is for the modpack. The mod is not yet open source.
 
 <center>
-<a href='https://quiltmc.org'><img alt="Supported on Quilt Loader height="56" src="https://cdn.tw25.net/mc/quilt/badge.svg"></a>
+<a href='https://fabricmc.org'><img alt="Supported on Fabric Loader height="56" src="https://cdn.tw25.net/mc/fabric/badge.svg"></a>
 </center>
 
 Previously known as **Mages & Heroes**.
