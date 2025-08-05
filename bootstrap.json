@@ -27,6 +27,16 @@
 			"path": "mods/hexchanting.jar",
 			"hash": "c4033c839559d6c3301e9aac025e676be285f6257a6fc07a44cdcff192854e9a",
 			"size": 126151
+		},
+        {
+			"path": "mods/LuckPerms.jar",
+			"hash": "ad9f6b3459224b5d88774263bd564215f7084c1f7503d15e0bb2c54aafc41582",
+			"size": 1551904
+		},
+        {
+			"path": "mods/malum.jar",
+			"hash": "8f9e5cbd8bfecd8c0946e9a5123459f26358ca149570880d5fd9eafcda3ed083",
+			"size": 33429379
 		}
 	]
 }
