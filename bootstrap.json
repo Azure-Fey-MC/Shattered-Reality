@@ -770,30 +770,46 @@
 			"path": "mods/fabric-api.jar",
 			"hash": "0ece50476da3692111ab04b75945c5458e70d98cd069eefc044ab3e57977deeb",
 			"size": 2107873
-		}
-		,
+		},
 		{
 			"path": "mods/inline.jar",
 			"hash": "b28a619c5e4ebe69d1b8eb5295f6294a20bb0e78dfb1160a00f71218f5b16518",
 			"size": 367628
-		}
-		,
+		},
 		{
 			"path": "mods/Kilt.jar",
 			"hash": "abfd66cf528a37a5b5930b279942a86fe0965c9434300526c2c5609c91b1413c",
 			"size": 27606696
-		}
-		,
+		},
 		{
 			"path": "mods/Patchouli.jar",
 			"hash": "4f53d46291e1277303e91ff344d97b01847711d8c84f1a6d79f037d03a3b0578",
 			"size": 857105
-		}
-		,
+		},
 		{
 			"path": "mods/paucal.jar",
 			"hash": "5cce226aec79dd5b70006bdf3746e639f53d4f674b97fec3c0630515e070f3c7",
 			"size": 280252
+		},
+		{
+			"path": "mods/combatplus-core.jar",
+			"hash": "648fac0558328e740aa2c2f2914890efb668aa806216264f064cf922ecc8d1f3",
+			"size": 139103
+		},
+		{
+			"path": "mods/fzzy_core.jar",
+			"hash": "d02a167cf70fd24d4a5e4848bb934585e3e3d279a0fd4d852b90ab21e134f94c",
+			"size": 530986
+		},
+		{
+			"path": "mods/hexpose.jar",
+			"hash": "83a6e411b0a952234d72bfc2c348fc6ea2aec88b211532d088c72d38e93a05d0",
+			"size": 333196
+		},
+		{
+			"path": "mods/Searchables.jar",
+			"hash": "f32e0b0c9bebc99944ddc6a9dba8f8336af666aaba151c6839b8353a2acdd53a",
+			"size": 80283
 		}
 	]
 }
