@@ -82,11 +82,6 @@
 			"size": 8730697
 		},
 		{
-			"path": "mods/toms_storage.jar",
-			"hash": "3487d7b56b9ec734a9b06e356839f2177bc32f569682a552ecf9ccc619d5913c",
-			"size": 1537265
-		},
-		{
 			"path": "mods/Clumps.jar",
 			"hash": "2eb70931dee86cef68c8538b8284c684225964632cd10e636ea938af6f66e6f7",
 			"size": 21987
@@ -173,8 +168,8 @@
 		},
 		{
 			"path": "mods/create.jar",
-			"hash": "33ec1d696c687e95cded0cffa6d581ac80bc9e416ec6040fcd595ce226d70bfb",
-			"size": 24841934
+			"hash": "6cb1e5b25e7d5fb670ef0713ca6da17525a1b9658e2a523fd76c2a32bbc0b2ed",
+			"size": 18764522
 		},
 		{
 			"path": "mods/resourcefulconfig.jar",
@@ -242,9 +237,9 @@
 			"size": 971552
 		},
 		{
-			"path": "mods/create_dd.jar",
-			"hash": "56dabaca5fb22386a06020401c95041a4b0229ac9256da29629cf4086804fa8c",
-			"size": 4373010
+			"path": "mods/Create-DnDesire.jar",
+			"hash": "c2e52676be3b3d1c04bb96cc0e6b966fb48342216fcd3658c79c43ae5537933d",
+			"size": 14053547
 		},
 		{
 			"path": "mods/memoryleakfix.jar",
@@ -392,9 +387,9 @@
 			"size": 20224640
 		},
 		{
-			"path": "mods/hexcreating.jar",
-			"hash": "4093d4ff3626ffa99768eab6da82b11b063ed84ccb55c1f94206132273326423",
-			"size": 449578
+			"path": "mods/TConstruct.jar",
+			"hash": "0ae3c629193d4f10c8b4cc4fc45ec19b58221a6d044ff49effed2adf03abd22e",
+			"size": 19792115
 		},
 		{
 			"path": "mods/cardinal-components-api.jar",
@@ -502,9 +497,9 @@
 			"size": 39666
 		},
 		{
-			"path": "mods/EMI Create Schematics.jar",
-			"hash": "0f44944ddc3e61f88578730c4db77cfa67461ca3e9e466ffcad08ead80c30cdc",
-			"size": 51589
+			"path": "mods/emi_create_schematics.jar",
+			"hash": "18719921d143f2c7d1e563944f0bb01ccefd43c1f5869351f80c33e1e4d1c91a",
+			"size": 51429
 		},
 		{
 			"path": "mods/soulslike-weaponry.jar",
@@ -587,9 +582,9 @@
 			"size": 348011
 		},
 		{
-			"path": "mods/createcontraptionterminals.jar",
-			"hash": "6ad3fddaa8d732a5d1213991ef5b3a334b5f88824b24c3819158bea407cee921",
-			"size": 87992
+			"path": "mods/ars_nouveau.jar",
+			"hash": "1f1debc282a0c379c1141f2840ea294eede6f6b544c589663f40bbe17b59a1af",
+			"size": 12430237
 		},
 		{
 			"path": "mods/davespotioneering.jar",
@@ -652,9 +647,9 @@
 			"size": 16895
 		},
 		{
-			"path": "mods/ultris.jar",
-			"hash": "6787a755ff62f9a2eb2ae948d597efce66129fd43481e07fadf1e2e4bdda6264",
-			"size": 14703606
+			"path": "mods/UnOrthodox.jar",
+			"hash": "7e0f180e2e747a65b2634ab6b93a46f39f1b254676fba6ea5ecd804c0d4b9d45",
+			"size": 8934410
 		},
 		{
 			"path": "mods/emi.jar",
@@ -678,8 +673,8 @@
 		},
 		{
 			"path": "mods/create_enchantment_industry.jar",
-			"hash": "30e8eac2ec6d63d5cd47940c2fa912e02f9a8fd9ae44eb3b80266dfea64261a9",
-			"size": 520093
+			"hash": "8a8b1ba1d5348cf737701697f534ce7570f28b4d00557f9b8b2eca1e7aaefc71",
+			"size": 488060
 		},
 		{
 			"path": "mods/blabber.jar",
