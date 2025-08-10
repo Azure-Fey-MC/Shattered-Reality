@@ -1,0 +1,12 @@
+{
+  "unsup_manifest":"root-1",
+  "name":"Shattered Reality",
+  "versions":{
+    "current":{
+      "name":"4.0.0",
+      "code":1
+    },
+    "history":[
+    ]
+  }
+}
