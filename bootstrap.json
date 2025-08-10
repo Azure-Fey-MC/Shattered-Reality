@@ -514,7 +514,7 @@
 			"path": "mods/modmenu.jar",
 			"hash": "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a",
 			"size": 721366,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/cadmus.jar",
@@ -526,13 +526,13 @@
 			"path": "mods/taterzens.jar",
 			"hash": "d06b230562de7e73d2bdff461c65509c4f7cdb94950a7a8933b2b544f834c220",
 			"size": 496129,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/vcinteraction.jar",
 			"hash": "405bd8cdf876e7d02839f03cf07e67f69f86a99df9028409312a7d4e6ac2ba6e",
 			"size": 404186,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/glowcase.jar",
@@ -556,7 +556,7 @@
 			"path": "mods/instantgroup.jar",
 			"hash": "1ef930c8ba78d41aac8c7fa364d5190ab23b76f0e6590a7a232d5bb1df18413c",
 			"size": 433201,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/spell_power.jar",
@@ -586,19 +586,19 @@
 			"path": "mods/fabrictailor.jar",
 			"hash": "a18336f4c7289fd1934f22dc8a6f3908f89609dc81e3c9f079503ed17ab73c86",
 			"size": 112497,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/emiffect.jar",
 			"hash": "5e0eda8200ebb7e2b127d90c95d82be59a4877b5b29d85f40ef172762d180ecc",
 			"size": 39666,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/emi_create_schematics.jar",
 			"hash": "18719921d143f2c7d1e563944f0bb01ccefd43c1f5869351f80c33e1e4d1c91a",
 			"size": 51429,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/soulslike-weaponry.jar",
@@ -622,7 +622,7 @@
 			"path": "mods/creeper-healing.jar",
 			"hash": "3d17313e46665f146fe08ee813fedc754a4f412565290ed0301a079409844551",
 			"size": 471700,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/Heroes.jar",
@@ -688,7 +688,7 @@
 			"path": "mods/jei.jar",
 			"hash": "1801d77ccd6cbb30d0b08fbe6b4c5f44f4e1054932a7a6192602a93b6fc9ad17",
 			"size": 1398098,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/hextended.jar",
@@ -712,7 +712,7 @@
 			"path": "mods/styled-nicknames.jar",
 			"hash": "43e1ce274351849036e61de4265203dd2370bb792a2a92cfefd94bf4a575b616",
 			"size": 157070,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/dungeons-and-taverns.jar",
@@ -724,13 +724,13 @@
 			"path": "mods/entity_model_features.jar",
 			"hash": "1da9c7bee8d0d700930b2a837b798cb6ae871c13081e2133f9ce31ef72ad43c7",
 			"size": 444272,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/styled-chat.jar",
 			"hash": "c301f2f8956a0d1f6d46a7324b578d75edcedd42ddae8b43064df741d00cf418",
 			"size": 392005,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/spark.jar",
@@ -742,7 +742,7 @@
 			"path": "mods/styledplayerlist.jar",
 			"hash": "df846a9bac3033a5eb908ae9eceac4e5935b899f94009dee92879ab0cf729f75",
 			"size": 251671,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/geckolib.jar",
@@ -784,7 +784,7 @@
 			"path": "mods/emi.jar",
 			"hash": "4d5fa18d9d3247071fe2f694c7cab95fee9530bed5c16e87096bcc94860e7a9b",
 			"size": 1051034,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/creation_orbs.jar",
@@ -820,91 +820,91 @@
 			"path": "mods/servercore.jar",
 			"hash": "d02253ab7566f2a6632cc78c9708dd768cf77ac8123351ed63be25e4f8cb317f",
 			"size": 815594,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "servers.dat",
 			"hash": "f2d4d63848d91442d19d3a0211aa90d3050bd086bc22345c0002f733ba30e7ff",
 			"size": 5080,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "icon.png",
 			"hash": "5b1a5a4c207c9e2a6d29137d237a7190d023d7eeeded056c1e304ea9a6e527ba",
 			"size": 17709,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "shaderpacks/BSL_v8.2.09.zip",
 			"hash": "b9f9e70c83f04830007ec06e6d7c3e0fafe90c6af53355e4248ab0a59ca1cf48",
 			"size": 954784,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "resourcepacks/Legacy_0.5_Create_Darkmode_v0.0.1.zip",
 			"hash": "50cb504e4a8934b55e21a06585a6682cd0898607690f9ac3797e12b7e08bbcf1",
 			"size": 152524,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "resourcepacks/Unity-1.20.1-Dark-1.1.0.zip",
 			"hash": "d8034f7db6ba8e500aff285ae1454563dfdf62b79aa11aa4eecf7686897b5fe4",
 			"size": 8663604,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "resourcepacks/EBE_1.20.x_v1.1.zip",
 			"hash": "cc1dc1cf2252b07fc5157d6982e2d1a5abe89ba5eab36688f75b778056dcd722",
 			"size": 62318,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "resourcepacks/§aReimagined§0_§8[v1.46-BETA.2]§0.zip",
 			"hash": "af65d30c1087b2c14991d65af1f058c2e0fb77eb219c7acefb0f87465ee38e4c",
 			"size": 65755216,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "resourcepacks/barebones+bossbar.zip",
 			"hash": "2f5aa8686f6cbe538a9a819a7842e41f765835c6233afb0365b9df745db7ae7a",
 			"size": 22707,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "resourcepacks/Bare Bones 1.20.zip",
 			"hash": "e628b0d284bcee3fc929ae5f3078e44af48de38a9691dc6b380b5a8fccb2a9f4",
 			"size": 8797275,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "resourcepacks/Default-Dark-Mode-1.20.2+-2024.6.0.zip",
 			"hash": "a7ea01c7cdab66656bce670092af0716d01a53715e1adee4c57828aa045e8c5a",
 			"size": 750624,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "resourcepacks/Unity-1.19.4-Base-2.5.0.zip",
 			"hash": "722b441a57adf6655f5c9caf23426143a60a9bcf6b7fc87c9503651f77fdfd37",
 			"size": 4812708,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "resourcepacks/Unique Dark 1.21 (free).zip",
 			"hash": "6b96ef47c3f33431a738e808557d85f297feaaaa1079f28e5174bafe9751ecb4",
 			"size": 7487783,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "resourcepacks/[1.4.1] Enhanced Boss Bars.zip",
 			"hash": "9c68f8ee2a2cfbf2334d2f8a8d49686becb30285413be7d63d88826598a41aed",
 			"size": 184935,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/entity_texture_features.jar",
 			"hash": "369d44d81df32c3840974f936ac225036c56b08303c42926200980c271ee6516",
 			"size": 652400,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/Levelz-Additions.jar",
