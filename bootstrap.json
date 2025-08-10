@@ -10,7 +10,7 @@
 			"path": "config/carryon-client.json",
 			"hash": "a0bdf8598bad61fff730d31cb088c5a3281ccfcd8d767a61ec879ce1fd818390",
 			"size": 675,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "config/telekinesis.json",
@@ -22,7 +22,7 @@
 			"path": "config/creeper-healing.toml",
 			"hash": "ae657f6c4361c61c1cbff6ece81b8b4f2b8c4453f89d4cbaf43dc204b4f4abe7",
 			"size": 4827,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/architectury.jar",
@@ -40,7 +40,7 @@
 			"path": "mods/LuckPerms.jar",
 			"hash": "ad9f6b3459224b5d88774263bd564215f7084c1f7503d15e0bb2c54aafc41582",
 			"size": 1551904,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/malum.jar",
@@ -52,7 +52,7 @@
 			"path": "mods/vmp.jar",
 			"hash": "4b2a19188c20fc58870768e2b47bd0bf7ebd82edc406d3eaf5d6f0ec08ffbd59",
 			"size": 487043,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/Pehkui.jar",
@@ -70,7 +70,7 @@
 			"path": "mods/extra-mod-integrations.jar",
 			"hash": "fd1d0b3c7d8279136f9e8abb48a960f6412901cc6fc2f096f3b20306cf4462bd",
 			"size": 257271,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/clockwork.jar",
@@ -100,7 +100,7 @@
 			"path": "mods/Clumps.jar",
 			"hash": "2eb70931dee86cef68c8538b8284c684225964632cd10e636ea938af6f66e6f7",
 			"size": 21987,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/Heracles.jar",
@@ -112,7 +112,7 @@
 			"path": "mods/iris.jar",
 			"hash": "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
 			"size": 2726899,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/pocket-repose.jar",
@@ -142,7 +142,7 @@
 			"path": "mods/alternate-current.jar",
 			"hash": "cbecb4abf4aa734a7617fa7ad771af118cd06cfac7ea7f26f43e9ff6ef6eb515",
 			"size": 51875,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/ranged_weapon_api.jar",
@@ -166,7 +166,7 @@
 			"path": "mods/lmft.jar",
 			"hash": "1a145a0ce7654de710082c73b0eb172a44a098288403582103961a54430a52a3",
 			"size": 179899,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/elementalenchantments.jar",
@@ -190,7 +190,7 @@
 			"path": "mods/CraterLib.jar",
 			"hash": "b0a6dc33bea384831bbf017d3c43bddab25d7b19f29322e7584d06e9e3d4a1b4",
 			"size": 2011049,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/mobplayeranimator.jar",
