@@ -196,7 +196,7 @@
 			"path": "mods/mobplayeranimator.jar",
 			"hash": "dfa8039030047478d454dece0886e9675bfd07092284f2e9259646b395745159",
 			"size": 218331,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/create.jar",
@@ -232,13 +232,13 @@
 			"path": "mods/sodium-extra.jar",
 			"hash": "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f",
 			"size": 370701,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/worldedit.jar",
 			"hash": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
 			"size": 5825402,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/libz.jar",
@@ -250,7 +250,7 @@
 			"path": "mods/DungeonsArise.jar",
 			"hash": "e8efd54576797faff7cc221e26a41a097e985baa7889398defb15da4135d7cf8",
 			"size": 9005634,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/owo-lib.jar",
@@ -262,7 +262,7 @@
 			"path": "mods/ears.jar",
 			"hash": "827150d5cf67edaf13f5ff8cd9e749809a1811d55e5a10e24ecf9dcb60f8edb0",
 			"size": 170868,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/supplementaries.jar",
@@ -280,7 +280,7 @@
 			"path": "mods/sodium.jar",
 			"hash": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
 			"size": 971552,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/Create-DnDesire.jar",
@@ -310,37 +310,37 @@
 			"path": "mods/switchy-inventories.jar",
 			"hash": "36d5e12a55df44bf2102752d1dba4f21cf09432cd9b5a048980947799400f24a",
 			"size": 42892,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/Clumps.jar",
 			"hash": "2eb70931dee86cef68c8538b8284c684225964632cd10e636ea938af6f66e6f7",
 			"size": 21987,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/SimpleDiscordLink.jar",
 			"hash": "d9dc4344339069d3cbb3b8aed826e6062d412ab9a57c8210db5a9e4caeb8dcc8",
 			"size": 10058773,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/emi_ores.jar",
 			"hash": "c55bfa8222478f506d712452dc5b79b0ccba1b6f2378aea031e93accafbd26ec",
 			"size": 110264,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/HealthIndicators.jar",
 			"hash": "0868fb6d660afb558478c531c1af598c43ad0678a92da280c2a414d8bb57a90f",
 			"size": 57173,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/tt20.jar",
 			"hash": "ad3c0cd35e6da12b0a9bfd28b0148aa7ea1075e2c9f3395d2e66f302ffa53910",
 			"size": 59277,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/Dungeon Now Loading.jar",
@@ -388,7 +388,7 @@
 			"path": "mods/switchy-proxy.jar",
 			"hash": "06163cc531d07db8f4d61ea917b0a6138ed319d686972fe92181fb3f6c6d31ad",
 			"size": 53230,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/shattered_reality.jar",
@@ -400,7 +400,7 @@
 			"path": "mods/Controlling.jar",
 			"hash": "f7bbb7e37f2118af29450ec468d3ce4ec2606fead2861f4092a43509c6803ed6",
 			"size": 122778,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/yet_another_config_lib.jar",
@@ -424,7 +424,7 @@
 			"path": "mods/emitrades.jar",
 			"hash": "c3ffb1807446f3b44d18703a046cc30d09e3e79b1d09ab1b13edc69c3aa5dbd2",
 			"size": 51479,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/majruszs-enchantments.jar",
@@ -448,7 +448,7 @@
 			"path": "mods/drogstyle.jar",
 			"hash": "b19a65c456eae5ea378ede0644cbfe446d781ccc4580b3387bde43cc1dde3ea0",
 			"size": 326680,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/hexcasting.jar",
@@ -472,19 +472,19 @@
 			"path": "mods/cardinal-components-api.jar",
 			"hash": "ff1e33adde43c3e01f7e9a673cbb7f3a75453e769f80a38b057653475e296aa2",
 			"size": 228709,
-			"envs": ["client","server"]
+			"envs": ["server"]
 		},
 		{
 			"path": "mods/player-animation-lib.jar",
 			"hash": "0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018",
 			"size": 181008,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/emi_enchanting.jar",
 			"hash": "9d98ca04365c13fd9f4b919656af9888fa6d71f5f1e6df60116f93423650bc7d",
 			"size": 15241,
-			"envs": ["client","server"]
+			"envs": ["client"]
 		},
 		{
 			"path": "mods/extra_trinkets.jar",
