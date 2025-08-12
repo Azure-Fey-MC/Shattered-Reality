@@ -977,6 +977,12 @@
 			"hash": "5a81a7b9626e179610a14575b2f58e37a8b694768ffc8b9c63994dfb952bddc9",
 			"size": 1480444,
 			"envs": ["client","server"]
+		},
+		{
+			"path": "mods/indium.jar",
+			"hash": "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
+			"size": 105382,
+			"envs": ["client"]
 		}
 	]
 }
