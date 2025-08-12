@@ -667,12 +667,6 @@
 			"envs": ["client","server"]
 		},
 		{
-			"path": "mods/sliceanddice.jar",
-			"hash": "b928f698340dbce86d5796ff2e3a99f6d69019aa5de2e5890f5c98c6b71fc521",
-			"size": 563207,
-			"envs": ["client","server"]
-		},
-		{
 			"path": "mods/fabric-language-kotlin.jar",
 			"hash": "2a3c56fc1dd6e922a9bee35a4c0ba4bc0d967763f2e952ff49b74ec3c641f50b",
 			"size": 7387359,
