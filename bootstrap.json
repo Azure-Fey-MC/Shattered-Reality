@@ -122,8 +122,8 @@
 		},
 		{
 			"path": "mods/copycats.jar",
-			"hash": "3e697c6f3d83bfba4ed288c597c0f26b251d9a5fa4fa7cc0d4faad6f6e039407",
-			"size": 1933455,
+			"hash": "b9aa3026f875d5f07c5c32f6857bceff51d0659adb7c662098366d6a0ea81ed9",
+			"size": 1983772,
 			"envs": ["client","server"]
 		},
 		{
@@ -964,6 +964,24 @@
 			"path": "mods/Searchables.jar",
 			"hash": "f32e0b0c9bebc99944ddc6a9dba8f8336af666aaba151c6839b8353a2acdd53a",
 			"size": 80283,
+			"envs": ["client","server"]
+		},
+		{
+			"path": "mods/fzzy_config.jar",
+			"hash": "dabf4f55946d6789a599e10657cce709c1be96b312edc471989a3b3af6f25fe2",
+			"size": 2265991,
+			"envs": ["client","server"]
+		},
+		{
+			"path": "mods/curios.jar",
+			"hash": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+			"size": 398066,
+			"envs": ["client","server"]
+		},
+		{
+			"path": "mods/Mantle.jar",
+			"hash": "5a81a7b9626e179610a14575b2f58e37a8b694768ffc8b9c63994dfb952bddc9",
+			"size": 1480444,
 			"envs": ["client","server"]
 		}
 	]

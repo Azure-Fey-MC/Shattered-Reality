@@ -74,8 +74,8 @@
 		},
 		{
 			"path": "mods/clockwork.jar",
-			"hash": "6939450ca2c5f68b1c056cdd77531a50d2cb8b39f6612cad0c36f73e3a548158",
-			"size": 3251594,
+			"hash": "cd50ac60bc88c24c9bcad8bdecba3e3c7c58561e9e96e41a42d990d0fc181e9e",
+			"size": 3205758,
 			"envs": ["client","server"]
 		},
 		{
