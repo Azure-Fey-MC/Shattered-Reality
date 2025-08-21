@@ -983,6 +983,12 @@
 			"hash": "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
 			"size": 105382,
 			"envs": ["client"]
+		},
+		{
+			"path": "mods/FarmersDelight.jar",
+			"hash": "bbfd5fde5946a6a48fe82e92c1b50a90a345ef254df29ad4265b09e1e2c15450",
+			"size": 8024496,
+			"envs": ["client","server"]
 		}
 	]
 }
