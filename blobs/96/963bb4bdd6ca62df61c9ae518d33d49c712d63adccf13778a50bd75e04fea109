@@ -770,8 +770,8 @@
 		},
 		{
 			"path": "mods/UnOrthodox.jar",
-			"hash": "7e0f180e2e747a65b2634ab6b93a46f39f1b254676fba6ea5ecd804c0d4b9d45",
-			"size": 8934410,
+			"hash": "c2f02b1d72aede88d1481d7e8d17a684ea9c44d8298ac1e553c54225f2bbae2f",
+			"size": 9041589,
 			"envs": ["client","server"]
 		},
 		{
