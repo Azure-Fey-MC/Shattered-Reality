@@ -989,6 +989,30 @@
 			"hash": "6ad3fddaa8d732a5d1213991ef5b3a334b5f88824b24c3819158bea407cee921",
 			"size": 87992,
 			"envs": ["client","server"]
+		},
+		{
+			"path": "mods/blahaj.jar",
+			"hash": "96e7ad4bc85237bcd8a5850cb21bc1e02dc9e5467d6fdde6ba2188315b845ca3",
+			"size": 36285,
+			"envs": ["client","server"]
+		},
+		{
+			"path": "mods/naturespirit.jar",
+			"hash": "30f0521244f759cf387b2fd86f5a42a133eedcd7cfbbff88ead5327f247d81cc",
+			"size": 20547630,
+			"envs": ["client","server"]
+		},
+		{
+			"path": "mods/naturesdelight.jar",
+			"hash": "c41b45ddfb08158e70bfff606f8ba3cee2ee3d069144e0d341ae7296d58d02d9",
+			"size": 253496,
+			"envs": ["client","server"]
+		},
+		{
+			"path": "mods/TerraBlender.jar",
+			"hash": "d02d9aa2ccf091264b0fcef07644128b823b3421a02bfc40391a01aa1ccd0a24",
+			"size": 322358,
+			"envs": ["client","server"]
 		}
 	]
 }
