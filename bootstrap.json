@@ -43,12 +43,6 @@
 			"envs": ["server"]
 		},
 		{
-			"path": "mods/malum.jar",
-			"hash": "8f9e5cbd8bfecd8c0946e9a5123459f26358ca149570880d5fd9eafcda3ed083",
-			"size": 33429379,
-			"envs": ["client","server"]
-		},
-		{
 			"path": "mods/vmp.jar",
 			"hash": "4b2a19188c20fc58870768e2b47bd0bf7ebd82edc406d3eaf5d6f0ec08ffbd59",
 			"size": 487043,
@@ -172,12 +166,6 @@
 			"path": "mods/elementalenchantments.jar",
 			"hash": "0cfc0e570e9c42c19770f02abe7fd5789e6ac105797ff84f19c757d0b74bd1f2",
 			"size": 86505,
-			"envs": ["client","server"]
-		},
-		{
-			"path": "mods/endermanoverhaul.jar",
-			"hash": "4d967523b7ffcffe6acd0e995390a69dd9af5e6dd3e3573dd43ca42c32157bc0",
-			"size": 1194281,
 			"envs": ["client","server"]
 		},
 		{
@@ -571,12 +559,6 @@
 			"envs": ["client","server"]
 		},
 		{
-			"path": "mods/lodestone.jar",
-			"hash": "904fc39f9d9c3d5495f03019f8091f1308f6d44a107fbbc106f06a0528991fca",
-			"size": 5721284,
-			"envs": ["client","server"]
-		},
-		{
 			"path": "mods/modernfix.jar",
 			"hash": "89c7ff6cd46449b080acca82e3df414de3a31b9f831b82c52b58d6ec9eacfc14",
 			"size": 533705,
@@ -688,12 +670,6 @@
 			"path": "mods/hextended.jar",
 			"hash": "3f1f0164eb40b0f3165da9081517fb0d0905a12b41465b5ab3e1e74fbc9431b8",
 			"size": 348011,
-			"envs": ["client","server"]
-		},
-		{
-			"path": "mods/ars_nouveau.jar",
-			"hash": "1f1debc282a0c379c1141f2840ea294eede6f6b544c589663f40bbe17b59a1af",
-			"size": 12430237,
 			"envs": ["client","server"]
 		},
 		{
