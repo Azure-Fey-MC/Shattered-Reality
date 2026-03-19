@@ -1,0 +1,13 @@
+name = "Dave's Potioneering"
+filename = "davespotioneering-fabric-1.20.1-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TaH1eXdZ/versions/5uTCVLIE/davespotioneering-fabric-1.20.1-1.jar"
+hash-format = "sha512"
+hash = "c75864bdbb0562e38ba2cb0550c19b917bf829bb00c86c74d23b69ac27126dfbfd48ef8548dede8d8d5eae031c4dd3ef0e2d649d2c11d05973bae1a2759e94a5"
+
+[update]
+[update.modrinth]
+mod-id = "TaH1eXdZ"
+version = "5uTCVLIE"

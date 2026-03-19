@@ -1,0 +1,13 @@
+name = "NBC Heroes"
+filename = "Heroes_Beta_Forge_Fabric_V.1.1.83.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cx63lkV1/versions/kfyUCnZG/Heroes_Beta_Forge_Fabric_V.1.1.83.jar"
+hash-format = "sha512"
+hash = "3bb35a489c9273102229fadfb481ad810d85135519343f446c8604bd4d703d6e9d2e73c059f1d627773ef99612e00a9e00a29f3092ea0669844679bdd64119f4"
+
+[update]
+[update.modrinth]
+mod-id = "Cx63lkV1"
+version = "kfyUCnZG"

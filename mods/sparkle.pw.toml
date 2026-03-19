@@ -1,0 +1,13 @@
+name = "Sparkle!"
+filename = "sparkle-3.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lpsy1gMk/versions/FcplMrHR/sparkle-3.2.0.jar"
+hash-format = "sha512"
+hash = "9b174b1d7d85d55bed8f18afa5d04b2bac11442dfaba48705897e34fe79b53765233fc3cdbcf8f32b67a2e03338f55d1de860a0b38fbaac76135baa956b79382"
+
+[update]
+[update.modrinth]
+mod-id = "Lpsy1gMk"
+version = "FcplMrHR"

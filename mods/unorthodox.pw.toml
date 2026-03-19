@@ -1,0 +1,13 @@
+name = "UnOrthodox"
+filename = "UnOrthodox-9.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MnJn7FmX/versions/98FGl121/UnOrthodox-9.0.0.jar"
+hash-format = "sha512"
+hash = "50f4df68ba86da9159f8e76bfc2d7a44d5658823bf7d3b03b372a6ef79058578c5146d458d58b51bbb7cd93cd9f5edbb7a815d7c651bef8f9300c38fba7e5179"
+
+[update]
+[update.modrinth]
+mod-id = "MnJn7FmX"
+version = "98FGl121"

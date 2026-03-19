@@ -1,0 +1,13 @@
+name = "The Conjunction of the Spheres - A Witcher World"
+filename = "tcots-witcher-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vLxodxCg/versions/lZULa3RL/tcots-witcher-1.0.6.jar"
+hash-format = "sha512"
+hash = "8c9ec1347984da23bde6de29f710b8cb91c6e84ba9d3822e0a8bdaf7f2ae0c068d8cd9e9a9c927a29ac68a9ee6f2641d54f20d0c37d77b099df00723ae7569c2"
+
+[update]
+[update.modrinth]
+mod-id = "vLxodxCg"
+version = "lZULa3RL"

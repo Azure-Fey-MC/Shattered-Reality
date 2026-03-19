@@ -1,0 +1,13 @@
+name = "Palladium"
+filename = "palladium-4.5.3+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lt2zd42r/versions/PwVc0nzi/palladium-4.5.3%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "2fe30f37bf38e8e0f9595859d051f9f61654e1f2c8a9c258c13fc16401d631fb60acb1d0e46b147cd06d4eed4b3872afbbd502b9d1274f32d4f751313e169178"
+
+[update]
+[update.modrinth]
+mod-id = "lt2zd42r"
+version = "PwVc0nzi"

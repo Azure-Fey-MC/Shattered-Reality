@@ -1,0 +1,13 @@
+name = "Dungeon Now Loading"
+filename = "Dungeon Now Loading-fabric-1.20.1-2.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vZoqTqwv/versions/JlTOmyMX/Dungeon%20Now%20Loading-fabric-1.20.1-2.11.jar"
+hash-format = "sha512"
+hash = "7eb23cb3c1e4f5d008422c5668c8b448bb214ea5750a6218c8fda77e3e298d796fa4ff6639cc8b4865a9dfd8d455591df2fdeec4ea065240510f232ef7f53f82"
+
+[update]
+[update.modrinth]
+mod-id = "vZoqTqwv"
+version = "JlTOmyMX"

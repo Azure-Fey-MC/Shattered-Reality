@@ -1,0 +1,13 @@
+name = "Orbs of Creation"
+filename = "creation_orbs-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7lo6T35r/versions/Kf1zcwed/creation_orbs-1.1.jar"
+hash-format = "sha512"
+hash = "278f3a4ef3a0e12d724e1e605c4fa8495f5c44e4aa114d8e8df345237b4dba90bee6d9ac487f13b27515df82eb4ee14e0b5f719f952ebb1c00a79101e033518e"
+
+[update]
+[update.modrinth]
+mod-id = "7lo6T35r"
+version = "Kf1zcwed"

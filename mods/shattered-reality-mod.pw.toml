@@ -1,0 +1,13 @@
+name = "Shattered Reality FabQuilt"
+filename = "shattered_reality-2.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/egZv6PZg/versions/6E0i4huL/shattered_reality-2.3.3.jar"
+hash-format = "sha512"
+hash = "41dcb1f1afaf3a6e532c199696228d82d316182dc1f31e78b553b01046c6785e1f7f9fd299160c09b3ef1ed3a70a5c9db8216231479be81a70703563d1d39b2a"
+
+[update]
+[update.modrinth]
+mod-id = "egZv6PZg"
+version = "6E0i4huL"

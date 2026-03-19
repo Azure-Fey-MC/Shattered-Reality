@@ -1,0 +1,8 @@
+name = "hexical"
+filename = "hexical-2.0.0-e0d7ef9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ChloeTax/hexxy4/raw/refs/heads/main/mods/hexical-2.0.0-e0d7ef9.jar"
+hash-format = "sha256"
+hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"

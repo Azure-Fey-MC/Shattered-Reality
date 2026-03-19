@@ -1,0 +1,13 @@
+name = "Blabber"
+filename = "blabber-1.6.2-mc1.20.1-standalone.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2oRMVFgd/versions/i4sxcMGg/blabber-1.6.2-mc1.20.1-standalone.jar"
+hash-format = "sha512"
+hash = "687c75e523087646eec977dbe32d5f5aeb96b56b2cde7004c22bd4ca08b3cbbeaa6eb795f07f39272dd104ee2d1376ccdc69e6413c84a1586c5189db1fda2afc"
+
+[update]
+[update.modrinth]
+mod-id = "2oRMVFgd"
+version = "i4sxcMGg"

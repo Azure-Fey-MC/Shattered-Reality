@@ -1,0 +1,13 @@
+name = "Witcher Medallions"
+filename = "witcher-medallions-3.1.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wPXs4AQ4/versions/YjgQl7UZ/witcher-medallions-3.1.1%2B1.20.jar"
+hash-format = "sha512"
+hash = "43d824bf0772aa6bd47be189ea93a3f699eda8b82edcf1096b5c521bc47a766fc87176a6eb15bf8fb35cb975ae6fbc2e89122e6f97f71e21ff3bd1169c9022e8"
+
+[update]
+[update.modrinth]
+mod-id = "wPXs4AQ4"
+version = "YjgQl7UZ"

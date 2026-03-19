@@ -1,0 +1,13 @@
+name = "Elemental enchantments"
+filename = "elementalenchantments-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RY1ITisM/versions/htpC27Sy/elementalenchantments-1.2.1.jar"
+hash-format = "sha512"
+hash = "8c1774fee101c0160e8bbde7f1afa358739d069d7cea14fad605e38e0587c1815a877e9b2f42243428a83e4bc87cdc5128c7bd58c5c63c3c81202fbfb984f553"
+
+[update]
+[update.modrinth]
+mod-id = "RY1ITisM"
+version = "htpC27Sy"
