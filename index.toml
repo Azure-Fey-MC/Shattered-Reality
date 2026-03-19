@@ -96,11 +96,6 @@ hash = "32f1cc2fc4adeae334d05c26ec4b49ada2947ae9ea4fd766cf32e062febe80e8"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-and-desires.pw.toml"
-hash = "fd2c9cdc0083b93038ce74132c66078e8e223722c4fae902ba4bfef28c37ed71"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
@@ -308,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/hextended-staves.pw.toml"
 hash = "f24bbafda4b129d94153f559f3f3612c6a96f167208f8e8f7c9d7a00237536e1"
+metafile = true
+
+[[files]]
+file = "mods/hexthings.pw.toml"
+hash = "0b79fd93bfd185bf2d618cf6edf735a25a822580329d8a5511b92c186b19e624"
 metafile = true
 
 [[files]]
