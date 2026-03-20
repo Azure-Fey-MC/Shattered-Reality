@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/auto-upload.yml"
+hash = "d69fe1621f1828616f9518996d013e8fb7a20bc38790bbdb2cf14a4625790385"
+
+[[files]]
 file = ".github/workflows/issues.yml"
 hash = "7714b53ccf6ae0683e14a16d8262f0c94e2a864100031976dc1a283442917a47"
 
@@ -297,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexpose.pw.toml"
-hash = "c92c1ff6925ac157ffe7741a7a2f24b1d921a12b7ca4d69aa90db280012e3903"
+hash = "a3679744d85237d364e432d07acc54775ef0ab10c80c542c5d5fb5d683dc43d6"
 metafile = true
 
 [[files]]
