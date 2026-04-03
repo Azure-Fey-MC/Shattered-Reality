@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/auto-upload.yml"
-hash = "d69fe1621f1828616f9518996d013e8fb7a20bc38790bbdb2cf14a4625790385"
+hash = "311efa4fb66619a25acbab43a295a7ecb5104fd9359f7deb423b0a6b367d257a"
 
 [[files]]
 file = ".github/workflows/issues.yml"
@@ -132,11 +132,6 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "71644e8041262193332f28d24b649c06c81074a983c6e3acd18b62a117b68b60"
-metafile = true
-
-[[files]]
-file = "mods/echoes-of-power.pw.toml"
-hash = "06c0006959d461e365e04bae05154d57b1ea832b565aed897544904c57d87828"
 metafile = true
 
 [[files]]
