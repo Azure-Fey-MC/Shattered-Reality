@@ -260,6 +260,11 @@ hash = "cabd614e238f5871fa5097d4e480c6765eace7864b7a094913f27631374d36d5"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "bdb152a76eaa12e77898923bcd648d1271eacb60617ec869c6c69708733b36be"
+metafile = true
+
+[[files]]
 file = "mods/heracles-for-blabber.pw.toml"
 hash = "eb606f43ebc3bd7b42c1d98f6273393ff9e8339b2e1b5a19a77c7748fe65be7b"
 metafile = true
@@ -685,11 +690,6 @@ hash = "2fca6cf0cf854371515ea2bf0de4f0bdab42ab56fdc5b4f4aee252eb513c043b"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "d976517d4d8951e9ee57ecdcdcb79a6c390614d595624b68287d945c2dcf9614"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
 metafile = true
@@ -801,7 +801,7 @@ hash = "af65d30c1087b2c14991d65af1f058c2e0fb77eb219c7acefb0f87465ee38e4c"
 
 [[files]]
 file = "servers.dat"
-hash = "f2d4d63848d91442d19d3a0211aa90d3050bd086bc22345c0002f733ba30e7ff"
+hash = "4cfad6d0961a0a0b5414d16a1affb75d55c9eb642a4eba7219401339abf90b42"
 
 [[files]]
 file = "shaderpacks/BSL_v8.2.09.zip"
