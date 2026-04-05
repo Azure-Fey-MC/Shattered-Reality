@@ -1,0 +1,13 @@
+name = "Body Health System"
+filename = "bodyhealthsystem-0.3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OXoUeQEk/versions/WVNQ1YYp/bodyhealthsystem-0.3.6.jar"
+hash-format = "sha512"
+hash = "c6ef5c581cd65cf4b26d03f7055cab43a2e19a379df49faf283307f963c2fcde561743689792a3f276ffae4b4f09d20ea994b0481a5dba1186a5a38391eb1cd8"
+
+[update]
+[update.modrinth]
+mod-id = "OXoUeQEk"
+version = "WVNQ1YYp"

@@ -40,6 +40,11 @@ hash = "6954afeb8bcf18a71cf02dad3ce414cae8940876602fc1239696b9282a554618"
 metafile = true
 
 [[files]]
+file = "mods/attributes.pw.toml"
+hash = "39793575c70ab9326c32db5c8e9ff30445282b34a8ad8066b63a9face99543f6"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "26a5cee35b797140d098a3e8c039b868edd1779e28d4a2cba1cd73e8ed32ca34"
 metafile = true
@@ -57,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/blaha-replushed.pw.toml"
 hash = "a3751624d77f31587695c346ee8ca53ace301a8582da36290c133111cc7a0c1e"
+metafile = true
+
+[[files]]
+file = "mods/body-health-system.pw.toml"
+hash = "ce0693e05c6980b66f8970dc5c18f4852f1e443bdda3d351920fd9715f4e4e4e"
 metafile = true
 
 [[files]]
@@ -112,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/daves-potioneering.pw.toml"
 hash = "8123c6219cc0051a48c6d85f726d85b62864509bf1af46a89bf03437909164ed"
+metafile = true
+
+[[files]]
+file = "mods/default-skill-trees.pw.toml"
+hash = "bd5044206dc78d8b5dba24aa8f64ef27f97da205e464ed678d818f2efa29c5a6"
 metafile = true
 
 [[files]]
@@ -245,6 +260,11 @@ hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+metafile = true
+
+[[files]]
 file = "mods/glowcase.pw.toml"
 hash = "43dce3aef37c6609c9da0b70acf4280e243204bdcf66151dc53186fd008e7b0c"
 metafile = true
@@ -367,16 +387,6 @@ metafile = true
 [[files]]
 file = "mods/lavender.pw.toml"
 hash = "ac014dfa07ca7716893c200aa128062220012441992683c35e6e7ec966d01069"
-metafile = true
-
-[[files]]
-file = "mods/levelz-additions.pw.toml"
-hash = "94eb13bca6f4d28c779904995797cb27bec3b0e0d28aa3bf0ed1ef9eec6a6496"
-metafile = true
-
-[[files]]
-file = "mods/levelz.pw.toml"
-hash = "1082747346df30fd1169a9396e681ea54e47508339267255acdeb624bd884b68"
 metafile = true
 
 [[files]]
@@ -510,6 +520,11 @@ hash = "4476e6877f1e5407acac56ed50887fa960fa21999d294cbe679d10fb5a933f51"
 metafile = true
 
 [[files]]
+file = "mods/odyssey-roles.pw.toml"
+hash = "e38efc43ea728e50ab27bc8130843d7ba8e3e74dc6e850f9867ecca28ff4f999"
+metafile = true
+
+[[files]]
 file = "mods/orbs-of-creation.pw.toml"
 hash = "2d49d47e9894790ecc8f28df69fcee371a5bd64577360dc779169c85c3b62376"
 metafile = true
@@ -585,6 +600,11 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "3070e7a9aa7244e36fdb27a904ac7433ed4d119336977d1837f486f60724a9b1"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
 metafile = true
@@ -607,6 +627,11 @@ metafile = true
 [[files]]
 file = "mods/simplymore.pw.toml"
 hash = "7351e582d562ba9dc5ba3fb8c6906d831569ba0e55002f8ca8c6744898d9c84a"
+metafile = true
+
+[[files]]
+file = "mods/skills.pw.toml"
+hash = "b7d42815e5f369c0dece3560b6d27b8dd80a69d59bb49f30b0c21673211ee033"
 metafile = true
 
 [[files]]
@@ -692,6 +717,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "a4acd311571559c158dcb90e8030289bf89942ede6efbba38f4f6096e2d2563d"
 metafile = true
 
 [[files]]
