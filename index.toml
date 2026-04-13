@@ -25,6 +25,10 @@ file = "config/telekinesis.json"
 hash = "f780fe080667cf91b16ea23ded775c5fc5924f53a4c66c0ab3366c4f2dfa04b8"
 
 [[files]]
+file = "mods/Feywild-Util-0.1.0+build.6.jar"
+hash = "94eef042d477a2b71c6ccbbea0ef47ca1472224ed2e5dfb0a9a141b4e7e01c81"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
