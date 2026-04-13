@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "d306e869837927002dcaa18b8b92465b11de8efcd44f531a9cef6f3975b00810"
+hash = "05e81caff9991de8ef78930791066c52ad1a0273d80a3e91896305186bc6927a"
 metafile = true
 
 [[files]]
@@ -191,12 +191,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0df092a3ac1e9d5c9500814f90d30f43ab50803c2632ad29059be48d9ed2e502"
+hash = "3286b24acf6f301cb8e1ea1cc6ebc4db8f49629542af39ccc8db3ca812b75576"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f91ca238ef6d15fa97e284475eb454a17590e87ed4277e8b6462e1dce5924c66"
+hash = "0b90f460657ba15bd72a43aaffaec196272d8a49316c0dd45bb8d2430d520603"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexchanting.pw.toml"
-hash = "d62dfc7169dd744c050748104bf0c9e7cc3fb67267f4c12d3c19c2fb48acbac3"
+hash = "b4e5789a8907a29451c22145e1914c7799da2a4736adc7d831b0b2c55c1a4c80"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexpose.pw.toml"
-hash = "a3679744d85237d364e432d07acc54775ef0ab10c80c542c5d5fb5d683dc43d6"
+hash = "838e0e1a6b4eb0ffc54c962c85ddd79bd0c5f89bd95ea9c23aeaef3af976e424"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f644c401c3ef437f661564171abc8be8f13ad71cb67461734ab402d2ebe7cc47"
+hash = "59dda81c8012a0624e341357b0e21fde91b66e5774ffaa73ab875e06f214bd6b"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/kilt.pw.toml"
-hash = "3e37ed07a6a58767bddd5cefa0223bf55dc10a880ba3a40e3e73da7463461a74"
+hash = "fc6f1bdf07802036c8be51261d070cad66997ac87a8e1643aa000b413bb13172"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/lapisworks.pw.toml"
-hash = "58b45db3b154d0b90303ccd18e9123c980ba3fc18c72683ee073e8db40573b91"
+hash = "5f92bbc36ffe9e6412ae0d691cf4be37916545e3aaef3ba1cf6adcfae81e2079"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "60dd0c8cd8ee5c017041e5d15106aa1cb96fad82ac6ddd1a297d8d7d4fe4e2dd"
+hash = "ab7e281c89ea3fcfa92131122027e9e1336e999e7415f87c68eb08235b90b722"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
+hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
 metafile = true
 
 [[files]]
@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "ac3aecaa7398c0b9dcb46abdaa1826562ea1494de43c740b6c7a8d5abd139420"
+hash = "a7d05265861381dd5dce1e9d9440c9cf0e2b5fc1799c6ade852cccd48ea0ae6c"
 metafile = true
 
 [[files]]
@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "953bf8b7f1516c226bf80636b57941aa02557bc0a684d9c115440f52e46a8121"
+hash = "3c08e80abd1ec07fcadde5d820fb44ec9ab964fe60385e1ae368b2eadc5d8b86"
 metafile = true
 
 [[files]]
@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "9065e9952237a158c64b27bbd8a9b5eabfb789ccd1a531ef19e6c0e9e871209b"
+hash = "6d9a8dac0aeb4cd4776d64a7ef3cca3842073cfcab8e6ea431653b98954f5a4d"
 metafile = true
 
 [[files]]
@@ -686,12 +686,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "68586ae904f1cb0d0c914f8be6258c4d2a20e6b28cd0a07fc4940adba7dbc22f"
+hash = "67fc732c5360d30b216d01fffd0dbc7fc6ce2459855a09f6550100723408fe6f"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "b03e78f87681ad57e29e27cfb6f791f8d54d91c8df1936efeba71248454467f7"
+hash = "b572308fa8043cc9990377eb8f6e2cfffb14be479608831f777cca9b67cd469e"
 metafile = true
 
 [[files]]
@@ -711,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/threetag-palladium.pw.toml"
-hash = "2fca6cf0cf854371515ea2bf0de4f0bdab42ab56fdc5b4f4aee252eb513c043b"
+hash = "4fa9a50e173c183dda5c74068380bda147c45d74ae4bc2bb64f4cdb8edfdc6f1"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "8614c98288cd90cf75c8aeea67e2b7da0a72c1a15462d329b5e39e04e46e664a"
+hash = "00399f9f3b9c8af1087a60bc60e098d93c9858a4d036a713ad1b5aed9b049572"
 metafile = true
 
 [[files]]

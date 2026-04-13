@@ -1,6 +1,7 @@
 name = "Hexpose"
 filename = "hexpose-1.0.0.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/VWvaiZqR/versions/o34yY7Me/hexpose-1.0.0.jar"

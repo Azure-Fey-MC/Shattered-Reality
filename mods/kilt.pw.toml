@@ -1,13 +1,13 @@
 name = "Kilt"
-filename = "Kilt-20.1.13.jar"
+filename = "Kilt-20.1.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/t87XZEqv/versions/H5CE3yLF/Kilt-20.1.13.jar"
+url = "https://cdn.modrinth.com/data/t87XZEqv/versions/DUCKIi1e/Kilt-20.1.14.jar"
 hash-format = "sha512"
-hash = "1f196bd8751a8a977e82f4955c0dbf6d99603036754703bda39b5eb5f3363cea0b964a7c9c3f7183e0965269f24bc4c4f39b0dd66e3e8e64ac91ff933b2f7b4b"
+hash = "8bd6e4de26b078da0b5b09a398dd215fcd9746d5eb5b86a6b24feb8c05f09dbb203274ccd4d18e99a057eb940509dddfdb713be4ddee6cf75d61c6fae82c6ef1"
 
 [update]
 [update.modrinth]
 mod-id = "t87XZEqv"
-version = "H5CE3yLF"
+version = "DUCKIi1e"
