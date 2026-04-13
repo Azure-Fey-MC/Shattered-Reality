@@ -21,6 +21,10 @@ file = "config/creeper-healing.toml"
 hash = "ae657f6c4361c61c1cbff6ece81b8b4f2b8c4453f89d4cbaf43dc204b4f4abe7"
 
 [[files]]
+file = "config/neruina.json"
+hash = "641649f24a08ddc6a242e00c96ec70291814587a4c91aa6cab563fa5a69dd1a2"
+
+[[files]]
 file = "config/telekinesis.json"
 hash = "f780fe080667cf91b16ea23ded775c5fc5924f53a4c66c0ab3366c4f2dfa04b8"
 
@@ -91,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/combatplus-core.pw.toml"
 hash = "cf164cd1286cfe97c6fdd49791b7042aea361d302552edd25f182d0e8d7782ae"
+metafile = true
+
+[[files]]
+file = "mods/configurable.pw.toml"
+hash = "02e4f1342a25791634a39ae7d56c81e807ff09c4c75db4af963678ac91a69a14"
 metafile = true
 
 [[files]]
@@ -501,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/nbc-heroes.pw.toml"
 hash = "3faeccc9464d6afe6ee10da0537c66656729d571243cbb48c862a80155ee2cad"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "f096668935fc99209f060afc22d0998ce2760179dad586e990a32f3d1fefd2aa"
 metafile = true
 
 [[files]]
