@@ -444,6 +444,11 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "866baeb7e9917b92825ddbcf4d113648a6662b5214e078b29c327ff97d0e2774"
+metafile = true
+
+[[files]]
 file = "mods/mob-player-animator.pw.toml"
 hash = "3be353b92080eff330995040871e15bbd39d0a899f24046547d5f8c76bfec5c3"
 metafile = true
