@@ -1,0 +1,13 @@
+name = "FSang18's Heroes"
+filename = "FSang18's Heropack v10.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nwqZcj5e/versions/6V5EVObG/FSang18%27s%20Heropack%20v10.1.1.jar"
+hash-format = "sha512"
+hash = "c4df8f68e9b61ee7060b29ace51819de4f41d0565c1c0dcad25b61e2194e9ed1bbc710813b8e8e4201ee3f2bbf78f50bd6aaa795a258e920df2fffb82a54eff8"
+
+[update]
+[update.modrinth]
+mod-id = "nwqZcj5e"
+version = "6V5EVObG"

@@ -1,0 +1,13 @@
+name = "PantheonSent"
+filename = "pantheonsent-1.1.1+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SIKMQqt0/versions/qzkcWw4e/pantheonsent-1.1.1%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "bf17bc9c6d8595143e0a935f70e7cd0a73dcc731f02549253fbd9a6f1b417783067ad54395ae175ed4e4141ceec56f65ea350b6e02ea45edb64c6aebecef25ac"
+
+[update]
+[update.modrinth]
+mod-id = "SIKMQqt0"
+version = "qzkcWw4e"

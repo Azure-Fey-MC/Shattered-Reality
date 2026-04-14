@@ -158,6 +158,11 @@ hash = "71644e8041262193332f28d24b649c06c81074a983c6e3acd18b62a117b68b60"
 metafile = true
 
 [[files]]
+file = "mods/echoes-of-power.pw.toml"
+hash = "0d2c1ab8c0532681e958814d32cc76e6e51fc2d5ec63e0709921300e9c8db10e"
+metafile = true
+
+[[files]]
 file = "mods/elemental-enchantments.pw.toml"
 hash = "594fb5f812a611b4c00a675fd3339965c7c96f2208c7595a1d8c8d50de3cf3bb"
 metafile = true
@@ -255,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
+metafile = true
+
+[[files]]
+file = "mods/fsang18s-heropack.pw.toml"
+hash = "41d508fd3fbd0dc4ae2a6b089f2bf215c63e1b78f6f77e22c009f80cfcf2f095"
 metafile = true
 
 [[files]]
@@ -375,11 +385,6 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
-metafile = true
-
-[[files]]
-file = "mods/kilt.pw.toml"
-hash = "fc6f1bdf07802036c8be51261d070cad66997ac87a8e1643aa000b413bb13172"
 metafile = true
 
 [[files]]
@@ -558,6 +563,11 @@ hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
 metafile = true
 
 [[files]]
+file = "mods/pantheonsent.pw.toml"
+hash = "c7e8966961821124c2e470ce98fd4d301e465f82a8e14efdf439846893b2b7a4"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b087d57e8f876873a4eaeacdb80166c03e5158fa95cb15ffe6aa9571b76bf9d2"
 metafile = true
@@ -575,11 +585,6 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
-metafile = true
-
-[[files]]
-file = "mods/pocket-repose.pw.toml"
-hash = "bc4db8d514b183ee3fa61669de96a5480e655efd857844919fefd5e363ef4abe"
 metafile = true
 
 [[files]]
@@ -750,11 +755,6 @@ metafile = true
 [[files]]
 file = "mods/tt20.pw.toml"
 hash = "f8382fb7ab96faa147b573619c5da9872fa6abcce25982ac015ca737e7a73339"
-metafile = true
-
-[[files]]
-file = "mods/unorthodox.pw.toml"
-hash = "5ac8c12e22bf132b916b7dc67052bdfae52174ea8cb7bb17092567ae7b6a5234"
 metafile = true
 
 [[files]]
