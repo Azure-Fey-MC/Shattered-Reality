@@ -22,7 +22,7 @@ hash = "ae657f6c4361c61c1cbff6ece81b8b4f2b8c4453f89d4cbaf43dc204b4f4abe7"
 
 [[files]]
 file = "config/neruina.json"
-hash = "641649f24a08ddc6a242e00c96ec70291814587a4c91aa6cab563fa5a69dd1a2"
+hash = "8e4254ad1318c11fffbacf74917f6fc46f620e64c476879d5c2465ed0fb9ff9e"
 
 [[files]]
 file = "config/telekinesis.json"
@@ -110,11 +110,6 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "05e81caff9991de8ef78930791066c52ad1a0273d80a3e91896305186bc6927a"
-metafile = true
-
-[[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "7d61e0f271ed6e998022aa702cf349a380708b98416a66589fd4aaa42a478891"
 metafile = true
 
 [[files]]
@@ -760,11 +755,6 @@ metafile = true
 [[files]]
 file = "mods/unorthodox.pw.toml"
 hash = "5ac8c12e22bf132b916b7dc67052bdfae52174ea8cb7bb17092567ae7b6a5234"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "00399f9f3b9c8af1087a60bc60e098d93c9858a4d036a713ad1b5aed9b049572"
 metafile = true
 
 [[files]]
