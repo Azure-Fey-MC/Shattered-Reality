@@ -29,8 +29,8 @@ file = "config/telekinesis.json"
 hash = "f780fe080667cf91b16ea23ded775c5fc5924f53a4c66c0ab3366c4f2dfa04b8"
 
 [[files]]
-file = "mods/Feywild-Util-0.1.0+build.6.jar"
-hash = "94eef042d477a2b71c6ccbbea0ef47ca1472224ed2e5dfb0a9a141b4e7e01c81"
+file = "mods/Feywild-Util-0.1.1+build.7.jar"
+hash = "52966dea94879a4acbf325afcf95f3f1130d53a95ca4ed664b235a28594811db"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -595,6 +595,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "babf1b1c64742ec0202fead080dfe6cdd2315a1141369877d79d5669339259dd"
 metafile = true
 
 [[files]]
