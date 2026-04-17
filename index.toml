@@ -26,7 +26,7 @@ hash = "8e4254ad1318c11fffbacf74917f6fc46f620e64c476879d5c2465ed0fb9ff9e"
 
 [[files]]
 file = "config/roles.json"
-hash = "a77845fe440f907fd4603a3eb9b7110bc5e9c680c7a2cc5e8b8ea6f9f9418918"
+hash = "4c7c7769e04a415cc814f836e505b5e4ca93c2526d98fb37a7031aedb3e8e151"
 
 [[files]]
 file = "config/telekinesis.json"
