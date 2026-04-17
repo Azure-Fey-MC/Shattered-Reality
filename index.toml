@@ -25,6 +25,10 @@ file = "config/neruina.json"
 hash = "8e4254ad1318c11fffbacf74917f6fc46f620e64c476879d5c2465ed0fb9ff9e"
 
 [[files]]
+file = "config/roles.json"
+hash = "a77845fe440f907fd4603a3eb9b7110bc5e9c680c7a2cc5e8b8ea6f9f9418918"
+
+[[files]]
 file = "config/telekinesis.json"
 hash = "f780fe080667cf91b16ea23ded775c5fc5924f53a4c66c0ab3366c4f2dfa04b8"
 
