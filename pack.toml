@@ -1,12 +1,12 @@
 name = "Shattered Reality"
 author = "Azure Fey MC"
-version = "5.2.3"
+version = "5.2.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9b995b04bdff59c7e52ed2f98c3bc9803b733a441060bf330f714361f45b267f"
+hash = "a46c8aeffc50c403b726e1cc5139c5a026aaa3f8f7821f8d0d7ac487ea6c50a5"
 
 [versions]
 fabric = "0.18.4"
