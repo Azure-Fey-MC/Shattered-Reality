@@ -1,13 +1,13 @@
 name = "Palladium"
-filename = "palladium-4.5.4+1.20.1-fabric.jar"
+filename = "palladium-4.5.5+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lt2zd42r/versions/QaCphEpp/palladium-4.5.4%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/lt2zd42r/versions/Y4L6HXg2/palladium-4.5.5%2B1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "9b1fe75dda9946cd396ba2106a718ed6fc23b09c8f5a9a3c0f9cee9ba8e7a3b92986e756888034722f0b8da76fc34cc5fe3f53e07ecba93817cc7857a0ea1328"
+hash = "f9c8007afbf2662f5dce8398b5f7971a1cfe9e9d51550ff5caa5e79c6f17cb3901cc2948e12bb465f7cc554aa4c19577fd8f2f3cfb0cb933bda3c34acf8eab6c"
 
 [update]
 [update.modrinth]
 mod-id = "lt2zd42r"
-version = "QaCphEpp"
+version = "Y4L6HXg2"

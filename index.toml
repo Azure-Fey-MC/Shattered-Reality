@@ -33,10 +33,6 @@ file = "config/telekinesis.json"
 hash = "f780fe080667cf91b16ea23ded775c5fc5924f53a4c66c0ab3366c4f2dfa04b8"
 
 [[files]]
-file = "mods/Feywild-Util-0.1.1+build.7.jar"
-hash = "52966dea94879a4acbf325afcf95f3f1130d53a95ca4ed664b235a28594811db"
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
@@ -87,6 +83,11 @@ hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -113,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "05e81caff9991de8ef78930791066c52ad1a0273d80a3e91896305186bc6927a"
+hash = "dfd353fd79ec691f873e3d09fdcfbb2f391cda8461e1662435bbfb3e247066f1"
 metafile = true
 
 [[files]]
@@ -148,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-now-loading.pw.toml"
-hash = "94c2fee162bea95e330482f1f7610f0cd237ad002ce83ef38d0a0569448e753b"
+hash = "9aa23c83f632f3235d92e3321c9d878fb40635629693b326c63744d62461819e"
 metafile = true
 
 [[files]]
@@ -183,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
+hash = "b2787edb0a1d06b8bfb4c13bfbe0c09792789dda66cbbb42059f213a76b04637"
 metafile = true
 
 [[files]]
@@ -208,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f214187db22666c93a2ad97e4657c4a1e627d034dc32c8cac5e6810bd8ad4db1"
+hash = "65c4754081efdfa32071560e11c8016acdf712b6b82e4b263b3cf414477d0fdc"
 metafile = true
 
 [[files]]
@@ -233,12 +234,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "54a806dbb8f15f8acd7a7d1dc528ce6242acfd8567784e96477d3026798718ae"
+hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
@@ -259,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/feywild-util.pw.toml"
+hash = "68b32a03b6e74a2ebffe4139cb6299b39eeae071f4df165e874e98991cbb94e0"
 metafile = true
 
 [[files]]
@@ -363,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "40a8d97db3162ea083e5ad40a6a8f7ba0f260d714b74854ba77d2644e1914bbf"
+hash = "a4fcda5abf0d1e3ad4ace9e00964c4f7ee46302c94b0b7680ffb420a95a3040e"
 metafile = true
 
 [[files]]
@@ -398,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
+hash = "968ebc0ac017432971e093cf7ac83657d2dcf30014d5549402a431a2bd8be95f"
 metafile = true
 
 [[files]]
@@ -458,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "866baeb7e9917b92825ddbcf4d113648a6662b5214e078b29c327ff97d0e2774"
+hash = "6c6bb72abb3e8e200ebe76ccb039def972055e87405d836df1f9a2c872aef035"
 metafile = true
 
 [[files]]
@@ -478,17 +484,22 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ab7e281c89ea3fcfa92131122027e9e1336e999e7415f87c68eb08235b90b722"
+hash = "9df70e05075bc6e043d9defcd67e9596235ca7667acba8ea64f2cbe5f27eab0b"
 metafile = true
 
 [[files]]
 file = "mods/more-rpg-library.pw.toml"
-hash = "8003dec60747a0ea436ea76286607c81bcb773f6858c643937ed03ca81d78587"
+hash = "52b2955642f1fc6f3e23d2d10f32bf9f8266738e93b65e94c7d727e8e8433dbf"
 metafile = true
 
 [[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "6757363eeff33967a7beb9782d833cd9f23486933a88373e576a3856fbbaf1bd"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
@@ -518,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "f096668935fc99209f060afc22d0998ce2760179dad586e990a32f3d1fefd2aa"
+hash = "25fc96c07dd6096e008098c445ea58626b79c085bfe99b2f8515d5e2ef361936"
 metafile = true
 
 [[files]]
@@ -628,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "a7d05265861381dd5dce1e9d9440c9cf0e2b5fc1799c6ade852cccd48ea0ae6c"
+hash = "f155005706c8e2ac410157dabda9462c30525f41bcd155c1d38e8297c0f1a4e3"
 metafile = true
 
 [[files]]
@@ -653,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3c08e80abd1ec07fcadde5d820fb44ec9ab964fe60385e1ae368b2eadc5d8b86"
+hash = "c70910870880249b6513a0b3ccfc5db5f5390ed28756c65c3988bfbfb154724e"
 metafile = true
 
 [[files]]
@@ -684,6 +695,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "0238d3e484f1829aaabb3b2482e528e192f3124fad89d81f43d7b60406e17d71"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "7bbc2d52041fddcb8572b50cbe39cdff6f83060da3b16eb965d882bb7ee852c3"
 metafile = true
 
 [[files]]
@@ -748,7 +769,7 @@ metafile = true
 
 [[files]]
 file = "mods/threetag-palladium.pw.toml"
-hash = "4fa9a50e173c183dda5c74068380bda147c45d74ae4bc2bb64f4cdb8edfdc6f1"
+hash = "aa52bb44edeed5f4a14299a2ede3312429f1f8744984999700f52fc5bdc918ff"
 metafile = true
 
 [[files]]
@@ -768,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "f8382fb7ab96faa147b573619c5da9872fa6abcce25982ac015ca737e7a73339"
+hash = "1cc58361433d589784d73d81a9e9079f0245d16406234ca46f70c7e5da32eb52"
 metafile = true
 
 [[files]]
@@ -876,3 +897,8 @@ hash = "5b1a5a4c207c9e2a6d29137d237a7190d023d7eeeded056c1e304ea9a6e527ba"
 [[files]]
 file = "world/datapacks/README.md"
 hash = "07f893ec4965a7755cb0c42e1c301fb22617833cffbfe58d89805753bedb79af"
+
+[[files]]
+file = "world/datapacks/nbc-heroes-villager.pw.toml"
+hash = "3b3874670b793e01959d45d9ba33de178a1860ce41cbdf4d9dfd305a7966642f"
+metafile = true
