@@ -273,11 +273,6 @@ hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
 
 [[files]]
-file = "mods/fsang18s-heropack.pw.toml"
-hash = "41d508fd3fbd0dc4ae2a6b089f2bf215c63e1b78f6f77e22c009f80cfcf2f095"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "960362b1fe6da267bff3411e3d53ca7a597429d49e7bc9d7a13331bb19595e4a"
 metafile = true
