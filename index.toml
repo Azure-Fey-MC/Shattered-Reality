@@ -897,3 +897,8 @@ hash = "5b1a5a4c207c9e2a6d29137d237a7190d023d7eeeded056c1e304ea9a6e527ba"
 [[files]]
 file = "world/datapacks/README.md"
 hash = "07f893ec4965a7755cb0c42e1c301fb22617833cffbfe58d89805753bedb79af"
+
+[[files]]
+file = "world/datapacks/nbc-heroes-villager.pw.toml"
+hash = "3b3874670b793e01959d45d9ba33de178a1860ce41cbdf4d9dfd305a7966642f"
+metafile = true
