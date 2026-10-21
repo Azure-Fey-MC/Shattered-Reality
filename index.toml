@@ -148,6 +148,11 @@ hash = "0aa190830a677fdf4b4a2504dfdac93da98707ec8bf0fb8c80601971ab66b96e"
 metafile = true
 
 [[files]]
+file = "mods/feywild-util.pw.toml"
+hash = "75ac68ff07b590c62d37c53eabc3d3709ca5a57d6e723ac4b3af5fabc5dd3beb"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "73ba52fce9064dfb0a3b78f1d96354b79c52db7e2a3e8ecc713da6429b4c5723"
 metafile = true
@@ -200,6 +205,11 @@ metafile = true
 [[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "85d8ee0787927bd4992487f499018494a8d8d6978737386d24e2e7c9d4f8c817"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "1d050a30412c6c7cb26b622b598b4211454116fb200a99425ba9440a167e9ec9"
 metafile = true
 
 [[files]]

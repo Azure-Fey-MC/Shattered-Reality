@@ -1,0 +1,13 @@
+name = "Feywild Util"
+filename = "Feywild-Util-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VMHTRSZ4/versions/asnH3MLx/Feywild-Util-0.2.0.jar"
+hash-format = "sha512"
+hash = "3395f49463eada406104dbf42cf213bb9411b9ebd432e46f25da0eaf67922fb91373867e14975df46961255d9164d2eafc1eb872bf9c9fc976e0fc2d03dd6d83"
+
+[update]
+[update.modrinth]
+mod-id = "VMHTRSZ4"
+version = "asnH3MLx"
