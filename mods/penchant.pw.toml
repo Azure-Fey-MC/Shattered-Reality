@@ -1,0 +1,13 @@
+name = "Penchant"
+filename = "penchant-0.3.11+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BTORUTmf/versions/Cobf3z2b/penchant-0.3.11%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "7d30f91c1ee4e337e15d08dceb7fb18a31de2df2a28c9e3dffa3e34a3ba69b831217df9fcb7b7103725b99ae714eee6b0de1f5ec9746c62414cf9e6962462325"
+
+[update]
+[update.modrinth]
+mod-id = "BTORUTmf"
+version = "Cobf3z2b"

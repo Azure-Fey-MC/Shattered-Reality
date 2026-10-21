@@ -1,0 +1,13 @@
+name = "Ancient Forgemastery"
+filename = "ancient_forgemastery-1.5.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rciLBWn7/versions/2RJw9Vxc/ancient_forgemastery-1.5.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "775de5961d984b0485c07c9c604c111977d4dcf4b37efff985db7d815c30a221609102084bdb3af3a5f5424eba1b30ff207921eaf11a03a1604c2eb1b9288022"
+
+[update]
+[update.modrinth]
+mod-id = "rciLBWn7"
+version = "2RJw9Vxc"

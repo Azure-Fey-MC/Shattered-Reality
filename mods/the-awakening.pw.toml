@@ -1,0 +1,13 @@
+name = "The Awakening"
+filename = "awakened-1.19.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xcHINtEG/versions/b1NxirWP/awakened-1.19.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "27315a2d0b119daca57916347ed0a1a785623a5272a1735e48222e7baa9fee73a47d7ff2514aae913f16d6ae2fdbf2a83362e06ebfb2c644df03e0ae206b9bbc"
+
+[update]
+[update.modrinth]
+mod-id = "xcHINtEG"
+version = "b1NxirWP"

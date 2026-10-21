@@ -1,0 +1,8 @@
+name = "phonos"
+filename = "phonos-1.0.0-beta.41+fabric-1.21.1-build.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Layers-of-Railways/Phonos/releases/download/v1.0.0-beta.41%2B1.21.1/phonos-1.0.0-beta.41+fabric-1.21.1-build.10.jar"
+hash-format = "sha256"
+hash = "85720d15f67626338b989fac1b0ecf8ce06af392a988d8da1b602fc54cdc2689"

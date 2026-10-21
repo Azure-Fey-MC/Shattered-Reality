@@ -1,0 +1,13 @@
+name = "Kilt"
+filename = "Kilt-21.1.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t87XZEqv/versions/FVVpTWMd/Kilt-21.1.15.jar"
+hash-format = "sha512"
+hash = "e58ac438b45b6f47d18a74994441096925346b0efa47aef42511ee676190d71221af0ba65630cf7b76281b1609808fb8f6235cf3ca5f7242c699694fd0cbc63a"
+
+[update]
+[update.modrinth]
+mod-id = "t87XZEqv"
+version = "FVVpTWMd"

@@ -1,0 +1,13 @@
+name = "Would you be a doll?"
+filename = "be-a-doll-1.0.10+fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MAd0Z2MD/versions/9KVW3ndv/be-a-doll-1.0.10%2Bfabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "c126ad3a07fae013b868865c2b81e386ab1267117731094264d6969e9ffe711ef9574eed08231f1acb08c593793a976a05e4f713bc1760f401816b77b26c8cd9"
+
+[update]
+[update.modrinth]
+mod-id = "MAd0Z2MD"
+version = "9KVW3ndv"

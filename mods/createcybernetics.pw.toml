@@ -1,0 +1,13 @@
+name = "Cybernetics"
+filename = "createcybernetics-0.5.2-neoforge-1.21.1-HOTFIX.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9t7jysm4/versions/smUjGKaM/createcybernetics-0.5.2-neoforge-1.21.1-HOTFIX.jar"
+hash-format = "sha512"
+hash = "fa594b7799c5111405e50081eb4d5c9b03f18aa5db7e94bf409e9903ac05e5c44d4c888d1ee985f46105341ec0487d21942895b2697f94aa9940f04238d33ec3"
+
+[update]
+[update.modrinth]
+mod-id = "9t7jysm4"
+version = "smUjGKaM"

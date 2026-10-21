@@ -1,0 +1,13 @@
+name = "Barkeep"
+filename = "barkeep-0.0.5-bc25.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TFwl8Z4h/versions/ReGTTDdF/barkeep-0.0.5-bc25.jar"
+hash-format = "sha512"
+hash = "c69511de3260ddf2e142d9e65f373e4db5f70a2dfb0556be723ac955691f5596f07c13cee5f7872d10955239bff92e8fda4621f19477afffd7669030f578e680"
+
+[update]
+[update.modrinth]
+mod-id = "TFwl8Z4h"
+version = "ReGTTDdF"

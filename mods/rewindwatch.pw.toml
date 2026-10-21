@@ -1,0 +1,13 @@
+name = "Rewind Watch"
+filename = "rewindwatch-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9TIvoEkj/versions/krUZWn8Z/rewindwatch-1.0.3.jar"
+hash-format = "sha512"
+hash = "59432186388fcb886fdd3e37e3ff993ae8f5973da7e51684493ee54681ec030cf12c76e596bd49535de86acae5806625b0a5e580049e25bcff1e7def20858996"
+
+[update]
+[update.modrinth]
+mod-id = "9TIvoEkj"
+version = "krUZWn8Z"

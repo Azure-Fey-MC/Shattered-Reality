@@ -1,0 +1,13 @@
+name = "Cybernetics: Vanity"
+filename = "cyberneticsvanity-0.5.2b-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sjyVAFFU/versions/qyAnYuWn/cyberneticsvanity-0.5.2b-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "7e9edc6342bef4889270996db91c0c8be156a0868f063b42ecba198ff61ed5291547ebc3eea206d6f2cc5168703be00e99cb053ee829f9e332d7f94f45ea9c79"
+
+[update]
+[update.modrinth]
+mod-id = "sjyVAFFU"
+version = "qyAnYuWn"
