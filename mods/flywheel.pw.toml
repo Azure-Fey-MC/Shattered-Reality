@@ -1,0 +1,8 @@
+name = "flywheel"
+filename = "flywheel-fabric-1.21.1-1.0.7-48.jar"
+side = "both"
+
+[download]
+url = "https://maven.createmod.net:6085/dev/engine-room/flywheel/flywheel-fabric-1.21.1/1.0.7-48/flywheel-fabric-1.21.1-1.0.7-48.jar"
+hash-format = "sha256"
+hash = "fbca09eebf8368ceab9b6f735fc946f9eeae825a7bc4ade0cb24652f1e119e8c"

@@ -168,6 +168,11 @@ hash = "75ac68ff07b590c62d37c53eabc3d3709ca5a57d6e723ac4b3af5fabc5dd3beb"
 metafile = true
 
 [[files]]
+file = "mods/flywheel.pw.toml"
+hash = "f3a92512b9d356732709c6679a63d57d850dc713657134c12ae0e2794852bd2d"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "73ba52fce9064dfb0a3b78f1d96354b79c52db7e2a3e8ecc713da6429b4c5723"
 metafile = true
@@ -331,6 +336,10 @@ metafile = true
 file = "mods/rewindwatch.pw.toml"
 hash = "59d06370d86fc7d56f9eec14dac4677432edcd2a0f5d9c2c254a3724c7d70ce2"
 metafile = true
+
+[[files]]
+file = "mods/sable-neoforge-1.21.1-2.0.6.jar"
+hash = "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2"
 
 [[files]]
 file = "mods/sable.pw.toml"
