@@ -1,13 +1,13 @@
 name = "NeoSync"
-filename = "NeoSync-1.21.1-1.7.1.jar"
+filename = "NeoSync-1.21.1-1.7.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QJvmrm6D/versions/gbuyskFY/NeoSync-1.21.1-1.7.1.jar"
+url = "https://cdn.modrinth.com/data/QJvmrm6D/versions/ECPTnHRT/NeoSync-1.21.1-1.7.5.jar"
 hash-format = "sha512"
-hash = "9c345e6b83ea207019f7e91f1d0aa0a8106bb319eb6321818c69b153426f6a04ded2a3f9ea4f404f41b86d8d34c12891c21542200208e105035ad59f2807cb67"
+hash = "b1eff2df8cccd40574e341a8dffaaf9de17a3eb51eddd169cf0cf4ea0e5d258259c794a8e609b13f058e966f3929a6bebaff5456171dc4608693ff6c8cc85bbb"
 
 [update]
 [update.modrinth]
 mod-id = "QJvmrm6D"
-version = "gbuyskFY"
+version = "ECPTnHRT"

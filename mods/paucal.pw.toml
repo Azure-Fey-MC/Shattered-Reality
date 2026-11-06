@@ -1,8 +1,8 @@
 name = "paucal"
-filename = "paucal-0.7.1-pre-27+1.21.1-fabric.jar"
+filename = "paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://ci.blamejared.com/job/petrakat/job/PAUCAL/job/1.21/27/artifact/Fabric/build/libs/paucal-0.7.1-pre-27+1.21.1-fabric.jar"
+url = "https://ci.blamejared.com/job/petrakat/job/PAUCAL/job/1.21/27/artifact/Neoforge/build/libs/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
 hash-format = "sha256"
-hash = "c51fbb1512afdd8ed4da93621066a8de04e2ab33c8f83f0f8ebba5922b84acf2"
+hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
