@@ -1,0 +1,13 @@
+name = "Create: Hemodynamics"
+filename = "hemodynamics-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EfAPha7I/versions/HW3g0ksT/hemodynamics-1.0.1.jar"
+hash-format = "sha512"
+hash = "99233d657b891e5ed89a25d9e609006a10d93cc67099e13e2d51ff1d976c50bceeefc6d497cb3ba60eb4c36225ea523b1cbad44b1d3516255d3fe6ca98ac204d"
+
+[update]
+[update.modrinth]
+mod-id = "EfAPha7I"
+version = "HW3g0ksT"
