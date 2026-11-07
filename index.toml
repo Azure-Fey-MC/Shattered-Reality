@@ -28,6 +28,11 @@ hash = "9f02622f12b684486543c090d6b72274278b8f59486f06800cb6114f64646073"
 metafile = true
 
 [[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "8f5f05a72596ecc0dd11be483785c8a521e987dc2fe6d2fef212c2a382a0c779"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
@@ -263,6 +268,16 @@ hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "0f04f325e69159d49ef7ad0593d9fa2caaca3825bc519b3d54c253bfcb0ae435"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "c27c2b642deba3609c6e5741ee6360cb8d760e5bf5b2595fd4fa01c01dc5f074"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
 metafile = true
@@ -330,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/phonos.pw.toml"
 hash = "8c60882f209d6b689167527420da36a01014a834ca8976c7e2ece292619be036"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "d94791108548d174758d587440c656f1a56884083fa3151bf90b515126482435"
 metafile = true
 
 [[files]]
@@ -419,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
-hash = "1e29968c1d8f6c6ff9de68ceb1f4a477fbf2ebd404ccf6ed59e8c9c2c4285d95"
+hash = "b43fd8343ee66b129ea22bcd7ba47ad392e7edc33cb24be0ed604b2225ed0229"
 metafile = true
 
 [[files]]
