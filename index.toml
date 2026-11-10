@@ -468,11 +468,6 @@ hash = "2cd56626d6ec1c6b366a273043a05fbf7c8cc9d3577513e29ab804bd70ff7cd8"
 metafile = true
 
 [[files]]
-file = "mods/to-tweaks-irons-spells.pw.toml"
-hash = "ac467acc6a07a1fffa874c6ee7027734c8d57a21054735a1d31aeaada75b855d"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
